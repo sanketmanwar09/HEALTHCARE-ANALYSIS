@@ -1,7 +1,30 @@
 # HEALTHCARE-ANALYSIS
+- [ Project Overview]( #project-overview)
+- [Data Sources](#data-sources)
+- [ Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Findings](#findings)
 
+  ### Project Overview
+ 
+This project aims to analyze a healthcare dataset to extract valuable insights and trends.
 
-Findings
+### Data Sources
+In this analysis, one data set was used which contained detailed information about the healthcare department.
+- 'data.csv'
+
+### Tools
+- Python(Jupyter Notebook)
+
+### Data Cleaning
+---
+
+In the initial data preparation phase , we performed the following tasks:
+1. Data loading and inspection
+2. Handling missing values
+3. Data cleaning and formatting
+   
+### Findings
 1. Female patients have taken more appointments then male patients
 2. Ratio of Nohow and Show is almost equal for age group except Age 0 and Age 1 with 80% show rate for each age group
 3. Each Neighbourhood have almost 80% show rate
