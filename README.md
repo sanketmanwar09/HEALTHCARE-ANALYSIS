@@ -1,4 +1,4 @@
-# HEALTHCARE-ANALYSIS
+# HOSPITAL APPOINTMENT ANALYSIS
 - [ Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
