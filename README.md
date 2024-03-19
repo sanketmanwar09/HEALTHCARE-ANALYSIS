@@ -3,6 +3,7 @@
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
 - [Data Cleaning](#data-cleaning)
+- [KPI](#kpi)
 - [Findings](#findings)
 
   ### Project Overview
@@ -23,6 +24,15 @@ In the initial data preparation phase , we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
 3. Data cleaning and formatting
+
+### KPI
+---
+1. Female vs Male Patients
+2. Patients who showed up to the hospital
+3. Patient wise scholarship
+4. Total patients with Hypertension and Diabetes
+5. SMS wise patients
+6. Weekday and Weekend appointments
    
 ### Findings
 1. Female patients have taken more appointments then male patients
