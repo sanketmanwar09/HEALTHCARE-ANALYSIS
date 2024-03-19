@@ -1,5 +1,5 @@
 # HOSPITAL APPOINTMENT ANALYSIS
-![]('HOSPITAL.avif')
+![](HOSPITAL.avif)
 - [ Project Overview]( #project-overview)
 - [Data Sources](#data-sources)
 - [ Tools](#tools)
