@@ -13,7 +13,7 @@ This project aims to analyze a healthcare dataset to extract valuable insights a
 
 ### Data Sources
 In this analysis, one data set was used which contained detailed information about the healthcare department.
-- 'data.csv'
+- 'Healthcare_Project.csv'
 
 ### Tools
 - Python(Jupyter Notebook)
